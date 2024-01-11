@@ -21,3 +21,5 @@ pip install reflex --use-deprecated=legacy-resolver
 reflex demo
 ```
 .
+
+- [ ] [tuto - chat demo](https://reflex.dev/docs/tutorial/intro/)
