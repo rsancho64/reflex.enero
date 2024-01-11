@@ -1,6 +1,6 @@
-build:
+buildChat:
 
-
+buildDemo:
 
 clean:
 
