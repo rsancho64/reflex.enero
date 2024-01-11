@@ -1,3 +1,5 @@
-myRapp/__pycache__/
 .venv/
 .web/
+assets/
+myRapp/__pycache__/
+rxconfig.py
