@@ -17,7 +17,7 @@ pip install reflex --use-deprecated=legacy-resolver
 
 [**101**](https://reflex.dev/docs/getting-started/installation/) 
 ```bash
-reflex init
+
 reflex demo
 ```
 .
